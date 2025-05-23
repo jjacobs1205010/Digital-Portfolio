@@ -45,7 +45,7 @@
 ## Create A CV
 
 ### Evidence
-![Create_A_CV Result](Evidence/Create_A_CV.png)
+![Create_A_CV Result](Evidence/create_a_cv.PNG)
 
 ### STAR Reflection
 **S – Situation:** This online lesson helped prepare for job applications in the ICT field.It guided me to create a CV that reflects not only my personal background but also my skills,educational background and my experiences.
