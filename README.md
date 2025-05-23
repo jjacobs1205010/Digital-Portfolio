@@ -47,10 +47,13 @@
 ![Create_A_CV Result](Evidence/Create_A_CV.png)
 
 ### STAR Reflection
-**S – Situation:**   
-**T – Task:**   
-**A – Action:**   
-**R – Result:** 
+**S – Situation:** This online lesson helped prepare for job applications in the ICT field.It guided me to create a CV that reflects not only my personal background but also my skills,educational background and my experiences.
+
+**T – Task:** To Create a well-structed CV using the correct formatting and presentation.
+
+**A – Action:** I gathered the needed documentation.i used a professional CV template that included all needed sections such as education and work experience.
+
+**R – Result:** I feel more  cstrong onfident in applying for jobs now that i have a CV that presents a strong profile representing me when applying for jobs or interships.
 
 ## CV Submission
 
