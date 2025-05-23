@@ -34,10 +34,12 @@
 ![Personality_Assessment Result](Evidence/Personality_Assessment.png)
 
 ### STAR Reflection
-**S – Situation:**   
-**T – Task:**   
-**A – Action:**   
-**R – Result:** 
+**S – Situation:**  As part of this lesson on personality assessment,i completed an assessment to understand how my traits affects my career choices.
+
+**T – Task:** figuring  out what my personality types are and how it supports careers in ICT.   
+**A – Action:**   After completing these assessments i learned that i have a personality types that enjoys problem-solving and clear communication ,traits suitable for technical roles.
+
+**R – Result:** This lesson pointed out areas for improvement as well as suitable career rols in Networking.
 
 ## Create A CV
 
